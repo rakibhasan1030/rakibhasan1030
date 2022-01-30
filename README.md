@@ -1,3 +1,12 @@
+## Hi, I'm Ali Hossain 👋
+<p>
+👑 I am Web Developer <br> 
+🖊️ Love to write code <br> 
+🎤 Like to share my knowledge </p> 
+
+
+
+
 ### Hi there 👋, I'm Rakib Hasan <p align="right"> ![Profile views](https://gpvc.arturio.dev/shovoalways)
 
 #### I am Android Developer
