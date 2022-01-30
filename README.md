@@ -1,4 +1,5 @@
-### Hi there 👋, I'm Rakib Hasan                                                                                
+### Hi there 👋, I'm Rakib Hasan <p align="right"> ![Profile views](https://gpvc.arturio.dev/shovoalways) alt="abhisheknaiidu" />
+
 #### I am Android Developer
 ![I am Android Developer](https://media-exp1.licdn.com/dms/image/C5616AQEI8XjNW8-NPw/profile-displaybackgroundimage-shrink_350_1400/0/1600029910412?e=1649289600&v=beta&t=HCalcQiJ1vkaAXslfHXxomBTB2pGO1-4iKvUBOsfRj8)
 
