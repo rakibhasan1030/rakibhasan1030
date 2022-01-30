@@ -1,4 +1,4 @@
-<p align="right"> ![Profile views](https://gpvc.arturio.dev/shovoalways)</p>
+<p align="right"> ![Profile views](https://gpvc.arturio.dev/shovoalways)
 ### Hi there 👋, I'm Rakib Hasan
 <p>
 👑 I am Android Developer <br> 
