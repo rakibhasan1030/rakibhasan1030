@@ -14,7 +14,7 @@ I’m a deeply motivated, passionate and ambitious person who loves to work with
       <a href="#macropower-tech">
         <img src="./images/cpp_icon.svg" width="48" height="48" alt="C++" />
       </a>
-      <br>C#&nbsp;(Core)
+      <br>C++&nbsp;
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
