@@ -1,11 +1,7 @@
-### Hi there 👋
+### Hi there 👋 <p align='right'> ![Profile views](https://gpvc.arturio.dev/avinash-218) </p>
 
 ## I'm Rakib.
-
-### 💻 &nbsp;About Me 
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-- 🎓 &nbsp; Studying Software Engineering at Brigham Young University Idaho.
+<p>I’m a deeply motivated, passionate and ambitious person who loves to work with technology. I'm adept in working both individually and in teams. I'm highly dedicated to my work and enthusiastic about solving real life problems to help people and make the world a better place for everyone.<p/>
 
 
 ### 🛠 &nbsp;Tech Stack
