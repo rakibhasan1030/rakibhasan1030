@@ -1,4 +1,4 @@
-### Hi there 👋 <p align='right'> ![Profile views](https://gpvc.arturio.dev/avinash-218) </p>
+### Hi there 👋 <p align='right'> ![Visitors](https://gpvc.arturio.dev/avinash-218) </p>
 
 ## I'm Rakib.
 I’m a deeply motivated, passionate and ambitious person who loves to work with technology.
