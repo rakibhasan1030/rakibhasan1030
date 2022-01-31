@@ -1,4 +1,4 @@
-### Hi there 👋 <p align='right'> ![Visitors](https://gpvc.arturio.dev/avinash-218) </p>
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <p align="right" width="375" align='right'> ![Visitors](https://gpvc.arturio.dev/avinash-218) </p>
 
 ## I'm Rakib.
 I’m a deeply motivated, passionate and ambitious person who loves to work with technology.
@@ -77,7 +77,7 @@ I’m a deeply motivated, passionate and ambitious person who loves to work with
       <a href="https://code.visualstudio.com/">
         <img src="./images/visual_studio_code_icon.svg" width="48" height="48" alt="visual studio code" />
       </a>
-      <br>Visual Studio Code&nbsp;
+      <br>VS Code&nbsp;
     </td>
     <td align="center" width="96">
       <a href="https://www.postman.com/">
