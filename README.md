@@ -3,6 +3,9 @@
 ## I'm Rakib.
 I’m a deeply motivated, passionate and ambitious person who loves to work with technology.
 
+<br>
+<br>
+<br>
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
@@ -123,6 +126,9 @@ I’m a deeply motivated, passionate and ambitious person who loves to work with
   </tr>
 </table>
 
+<br>
+<br>
+<br>
 
 <p  align="center">   
   <br>
