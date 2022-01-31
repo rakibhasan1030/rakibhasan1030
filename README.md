@@ -26,7 +26,7 @@ I’m a deeply motivated, passionate and ambitious person who loves to work with
 
 - 🔧 &nbsp;
 <a href="https://developer.android.com/studio/" target="_blank"> <img src="https://img.shields.io/badge/-Android Studio-333333?style=flat&logo=android-studio" alt="android-studio"/> </a>
-<a href="https://www.codeblocks.org/" target="_blank"> <img src="https://img.shields.io/badge/-Visual Studio Code-333333?style=flat&logo=visual-studio-code" alt="visual-studio-code"/>
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/-Visual Studio Code-333333?style=flat&logo=visual-studio-code" alt="visual-studio-code"/>
 
  
  
@@ -37,16 +37,13 @@ I’m a deeply motivated, passionate and ambitious person who loves to work with
 <tr border="0">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=rakibhasan1030&theme=vision-friendly-dark&show_icons=true&count_private=true&hide_border=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=rakibhasan1030&theme=vision-friendly-dark&show_icons=true&count_private=true&hide_border=true"/>
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibhasan1030&theme=vision-friendly-dark&hide_border=true" />
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rakib Hasan" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibhasan1030&theme=vision-friendly-dark&hide_border=true" />
 
-
-  
 </td>
 
 <td width="50%" align="center">
-
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rakibhasan1030&layout=compact&theme=vision-friendly-dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
