@@ -4,7 +4,6 @@
 I’m a deeply motivated, passionate and ambitious person who loves to work with technology.
 
 <br>
-<br>
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
@@ -125,7 +124,6 @@ I’m a deeply motivated, passionate and ambitious person who loves to work with
   </tr>
 </table>
 
-<br>
 <br>
 
 <p  align="center">   
