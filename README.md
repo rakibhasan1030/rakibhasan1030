@@ -11,8 +11,8 @@ I’m a deeply motivated, passionate and ambitious person who loves to work with
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./images/cpp_icon.svg" width="48" height="48" alt="C++" />
+      <a href="https://www.cprogramming.com/">
+        <img src="./images/c_icon.svg" width="48" height="48" alt="C" />
       </a>
       <br>C++&nbsp;
     </td>
