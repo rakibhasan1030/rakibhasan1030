@@ -11,18 +11,22 @@
 ### 🛠 &nbsp;Tech Stack
 
 - 🌐 &nbsp;
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.shields.io/badge/-C-333333?style=flat&logo=C" alt="c"/> </a>
+<a href="https://isocpp.org/std/the-standard/" target="_blank"> <img src="https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B" alt="c++"/> </a>
+<a href="https://www.java.com/" target="_blank"> <img src="https://img.shields.io/badge/-JAVA-333333?style=flat&logo=java" alt="java"/> </a>
+
 - 🛢 &nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql" alt="mysql"/> </a>
+<a href="https://www.sqlite.org/" target="_blank"> <img src="https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite" alt="sqlite"/> </a>
+<a href="https://firebase.google.com/" target="_blank"> <img src="https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase" alt="firebase"/> </a>
+ 
+ 
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+<a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="git"/> </a>
+<a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="github"/> </a>
+<a href="https://gitlab.com/" target="_blank"> <img src="https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab" alt="gitlab"/> </a>
+<a href="https://www.postman.com/" target="_blank"> <img src="https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman" alt="postman"/> </a>
+
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+<a href="https://developer.android.com/studio/" target="_blank"> <img src="https://img.shields.io/badge/-Android Studio-333333?style=flat&logo=android-studio" alt="android-studio"/> </a>
+<a href="https://www.codeblocks.org/" target="_blank"> <img src="https://img.shields.io/badge/-Visual Studio Code-333333?style=flat&logo=visual-studio-code" alt="visual-studio-code"/>
