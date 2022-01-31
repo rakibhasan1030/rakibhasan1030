@@ -18,51 +18,51 @@ I’m a deeply motivated, passionate and ambitious person who loves to work with
     </td>
     <td align="center" width="96">
       <a href="https://isocpp.org/std/the-standard/">
-        <img src="./img/cpp_icon.svg" width="48" height="48" alt="cpp" />
+        <img src="./images/cpp_icon.svg" width="48" height="48" alt="c" />
       </a>
       <br>C++&nbsp;
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+        <img src="./images/c_sharp_icon.svg" width="48" height="48" alt="c_sharp" />
       </a>
-      <br>Go
+      <br>C#&nbsp;
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+      <a href="https://www.java.com/">
+        <img src="./images/java_icon.svg" width="48" height="48" alt="java" />
       </a>
-      <br>Jsonnet
+      <br>Java&nbsp;
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      <a href="https://kotlinlang.org/">
+        <img src="./images/kotlin_icon.svg" width="48" height="48" alt="kotlin" />
       </a>
-      <br>TypeScript
+      <br>Kotlin&nbsp;
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+        <img src="./images/html_icon.svg" width="48" height="48" alt="html" />
       </a>
-      <br>JavaScript
+      <br>HTML&nbsp;
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+        <img src="./images/css_icon.svg" width="48" height="48" alt="css" />
       </a>
-      <br>React
+      <br>CSS&nbsp;
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+      <a href="https://developer.android.com/studio">
+        <img src="./images/android_studio_icon.svg" width="48" height="48" alt="android studio" />
       </a>
-      <br>Bootstrap
+      <br>Android Studio&nbsp;
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
+      <a href="https://developer.android.com/studio">
+        <img src="./images/android_studio_icon.svg" width="48" height="48" alt="android studio" />
       </a>
-      <br>Sass
+      <br>Android Studio&nbsp;
     </td>
   </tr>
   <tr>
