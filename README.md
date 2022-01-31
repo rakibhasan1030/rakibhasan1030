@@ -12,15 +12,15 @@ I’m a deeply motivated, passionate and ambitious person who loves to work with
   <tr>
     <td align="center" width="96">
       <a href="https://www.cprogramming.com/">
-        <img src="./images/c_icon.svg" width="48" height="48" alt="C" />
+        <img src="./images/c_icon.svg" width="48" height="48" alt="c" />
       </a>
-      <br>C++&nbsp;
+      <br>C&nbsp;
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+      <a href="https://isocpp.org/std/the-standard/">
+        <img src="./img/cpp_icon.svg" width="48" height="48" alt="cpp" />
       </a>
-      <br>Python
+      <br>C++&nbsp;
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
