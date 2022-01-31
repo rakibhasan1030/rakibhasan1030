@@ -53,72 +53,72 @@ I’m a deeply motivated, passionate and ambitious person who loves to work with
       <br>CSS&nbsp;
     </td>
     <td align="center" width="96">
-      <a href="https://developer.android.com/studio">
-        <img src="./images/android_studio_icon.svg" width="48" height="48" alt="android studio" />
+      <a href="https://www.codeblocks.org/">
+        <img src="./images/codeblocks_icon.svg" width="48" height="48" alt="codeblocks" />
       </a>
-      <br>Android Studio&nbsp;
+      <br>CodeBlocks&nbsp;
     </td>
     <td align="center" width="96">
-      <a href="https://developer.android.com/studio">
-        <img src="./images/android_studio_icon.svg" width="48" height="48" alt="android studio" />
+      <a href="https://netbeans.apache.org/">
+        <img src="./images/netbeans_icon.svg" width="48" height="48" alt="netbeans" />
       </a>
-      <br>Android Studio&nbsp;
+      <br>Netbeans&nbsp;
     </td>
   </tr>
   <tr>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+    <td align="center" width="96">
+      <a href="https://developer.android.com/studio">
+        <img src="./images/android_studio_icon.svg" width="48" height="48" alt="android studio" />
       </a>
-      <br>Docker
+      <br>Android Studio&nbsp;
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+      <a href="https://code.visualstudio.com/">
+        <img src="./images/visual_studio_code_icon.svg" width="48" height="48" alt="visual studio code" />
       </a>
-      <br>Kubernetes
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
-      </a>
-      <br>RHEL
+      <br>Visual Studio Code&nbsp;
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
+      <a href="https://www.postman.com/">
+        <img src="./images/postman_icon.svg" width="48" height="48" alt="postman" />
       </a>
-      <br>Powershell
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
+      <br>Postman&nbsp;
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+      <a href="https://www.sqlite.org/">
+        <img src="./images/sqlite_icon.svg" width="48" height="48" alt="sqlite" />
       </a>
-      <br>Grafana
+      <br>SQLite&nbsp;
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
+      <a href="https://www.mysql.com/">
+        <img src="./images/mysql_icon.svg" width="48" height="48" alt="mysql" />
       </a>
-      <br>Prometheus
+      <br>MySQL&nbsp;
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
+      <a href="https://www.apachefriends.org/">
+        <img src="./images/xampp_icon.svg" width="48" height="48" alt="xampp" />
       </a>
-      <br>Thanos
+      <br>Xampp&nbsp;
+    </td>
+    <td align="center" width="96">
+      <a href="https://firebase.google.com/">
+        <img src="./images/firebase_icon.svg" width="48" height="48" alt="firebase" />
+      </a>
+      <br>Firebase&nbsp;
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/">
+        <img src="./images/github_icon.svg" width="48" height="48" alt="github" />
+      </a>
+      <br>GitHub&nbsp;
+    </td>
+    <td align="center" width="96">
+      <a href="https://about.gitlab.com/">
+        <img src="./images/gitlab_icon.svg" width="48" height="48" alt="gitlab" />
+      </a>
+      <br>GitLab&nbsp;
     </td>
   </tr>
 </table>
