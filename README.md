@@ -29,7 +29,7 @@ I’m a deeply motivated, passionate and ambitious person who loves to work with
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/-Visual Studio Code-333333?style=flat&logo=visual-studio-code" alt="visual-studio-code"/>
 
  
- 
+ <br/>
  
 <p  align="center">   
   <br>
