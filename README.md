@@ -29,14 +29,15 @@
 <a href="https://www.codeblocks.org/" target="_blank"> <img src="https://img.shields.io/badge/-Visual Studio Code-333333?style=flat&logo=visual-studio-code" alt="visual-studio-code"/>
 
  
-<p  align="center">   
  
+ 
+<p  align="center">   
   <br>
 <table border="0" align="center">
 <tr border="0">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=rakibhasan1030&theme=cobalt&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=rakibhasan1030&theme=radical&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibhasan1030&theme=dark&hide_border=true" />
 
@@ -46,12 +47,11 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rakibhasan1030&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rakibhasan1030&layout=compact&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
 </table>
-
 </br>
 </p>  
     
