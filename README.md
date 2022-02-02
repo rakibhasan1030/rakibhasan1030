@@ -112,13 +112,13 @@ I’m a deeply motivated, passionate and ambitious person who loves to work with
       <br>Firebase&nbsp;
     </td>
     <td align="center" width="96">
-      <a href="https://github.com/">
+      <a href="https://github.com/rakibhasan1030/">
         <img src="./images/github_icon.svg" width="48" height="48" alt="github" />
       </a>
       <br>GitHub&nbsp;
     </td>
     <td align="center" width="96">
-      <a href="https://about.gitlab.com/">
+      <a href="https://gitlab.com/rakibhasan1030/">
         <img src="./images/gitlab_icon.svg" width="48" height="48" alt="gitlab" />
       </a>
       <br>GitLab&nbsp;
