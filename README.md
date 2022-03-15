@@ -26,7 +26,7 @@ I’m a deeply motivated, passionate and ambitious person who loves to work with
       <br>C++&nbsp;
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/">
         <img src="./images/c_sharp_icon.svg" width="48" height="48" alt="c_sharp" />
       </a>
       <br>C#&nbsp;
