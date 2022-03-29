@@ -4,8 +4,6 @@
 
 </div>
 
-<br>
-
 <p  align="center">   
   <br>
 <table border="0" align="center">
