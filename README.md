@@ -3,7 +3,7 @@
 ### Hi there!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px"> <p align="right" width="50%" align='right'> ![Visitors](https://gpvc.arturio.dev/rakibhasan1030) </p>
 
 ## I'm Rakib.
-Deeply motivated, passionate and ambitious person who loves to work with technology.
+<i>Deeply motivated, passionate and ambitious person who loves to work with technology.</i>
 
 <br>
 
