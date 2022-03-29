@@ -1,6 +1,8 @@
+<div align="center"> 
+  
+  ![Visitors](https://gpvc.arturio.dev/rakibhasan1030) 
 
-
-![Visitors](https://gpvc.arturio.dev/rakibhasan1030)
+</div>
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
