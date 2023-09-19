@@ -1,6 +1,6 @@
 <div align="center"> 
   
-  ![Visitors](https://gpvc.arturio.dev/rakibhasan1030) 
+  <p align="center"> <img  src="https://komarev.com/ghpvc/?username=rakibhasan1030&label=Profile%20views&color=0e75b6&style=flat" alt="vootbd" /> </p>
 
 </div>
 
