@@ -25,11 +25,3 @@
 </br>
 </p>
 
-<br>
-
-## ☕ Connect with me! 
-
-<a href='https://www.linkedin.com/in/rakibhasan1030/'><img src='images/linkedin_icon.svg' alt='linkedin' width='48' height='48'></a>
-<a href='https://x.com/rakibhasan1030'><img src='images/ic_x.svg' alt='x' width='48' height='48'></a>
-<a href='[https://x.com/rakibhasan1030](https://www.instagram.com/rakibhasan1030/)'> <img src='images/ic_insta.svg' alt='instagram' width='48' height='48'></a>
-
